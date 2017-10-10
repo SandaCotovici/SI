@@ -1,4 +1,4 @@
-#Socket client example in python
+
 
 import socket   #for sockets
 import sys  #for exit
