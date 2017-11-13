@@ -1,6 +1,5 @@
 import socket
-# ip and port that will be used to create the server
-# '127.0.0.1' would do the same thing
+
 IP = 'localhost'
 PORT = 12344
 
@@ -32,31 +31,3 @@ while True:
 #close everything
 client_socket.close()
 tcp_server.close()
-
-# import socket
-#
-# def Main():
-#     IP = "127.0.0.1"
-#     port = 12324
-#
-#     mySocket = socket.socket()
-#     mySocket.bind((IP,port))
-#
-#     mySocket.listen(5)
-#     print('server is listening')
-#     conn, addr = mySocket.accept()
-#     print ("Connection from: " + str(addr))
-#     while True:
-#             data = conn.recv(1024).decode()
-#             if not data:
-#                     break
-#             print ("from connected  user: " + str(data))
-#
-#             data = str(data).upper()
-#             print ("sending: " + str(data))
-#             conn.send(data.encode())
-#
-#     conn.close()
-#
-# if __name__ == '__main__':
-#     Main()
