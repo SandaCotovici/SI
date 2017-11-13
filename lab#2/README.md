@@ -26,6 +26,5 @@
 So, the whole process is exemplified in some gifs below.
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab2_SI.gif "Gif of the attack #1")
 <div class="pagebreak"></div>
-and the secind one
+and the secind one is: 
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab21_SI.gif "Gif of the attack #2")
-<div class="pagebreak"></div>
