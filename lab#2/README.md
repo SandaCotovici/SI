@@ -8,11 +8,11 @@
 2. Run the "ipconfig" in the Command Prompt to get the localhost address or just use 127.0.0.1.
 3. Run the XAMPP Control Panel and start the Apache service.
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/XAMPP.PNG "Apache Control Panel window")
-<div class="pagebreak"></div> 
+ 
 4. Open a browser window and check the localhost for the running Apache page
 5. Start the Switchblade tool and enter the IPv4 address in the URL field.
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/SwitchBlade.png "The DoS tool window")
-<div class="pagebreak"></div>
+
 6. Now enter the Connections and Connections rate as you desire and press the 'Run attack' button.
      - Use TCPView to view the TCP sockets that are being run in real time.
      - Check the task manager to see the CPU usage during the attack.
