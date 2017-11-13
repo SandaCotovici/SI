@@ -1,4 +1,4 @@
-#Lab 2 SI
+# Lab 2 SI
 ## Objective: Learn how to use the network as an attack vector.
 ### Work flow:
 1. Necessarry tools:
@@ -18,13 +18,13 @@
      - Check the task manager to see the CPU usage during the attack.
      - Refresh the target page to see if it is still up and running.
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/tcpView.png "TCP View")
-<div class="pagebreak"></div>
+
 7. By checking the acces logs, we can check the connections created:
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/accessLog.png "Acces logs")
 
 ### Results:
 So, the whole process is exemplified in some gifs below.
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab2_SI.gif "Gif of the attack #1")
-<div class="pagebreak"></div>
+
 and the secind one is: 
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab21_SI.gif "Gif of the attack #2")
