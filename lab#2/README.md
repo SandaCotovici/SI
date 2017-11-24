@@ -23,11 +23,12 @@
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/accessLog.png "Acces logs")
 
 ### Results:
-So, the whole process is exemplified in some gifs below.
+In some gifs below is presented how works Switchblade:
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab2_SI.gif "Gif of the attack #1")
 
 and the secind one is: 
 ![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%232/images/lab21_SI.gif "Gif of the attack #2")
+
 ### Conclusions
 
 In this laboratory were examined different techniques of network attacks. One type is DDoS attack, which I have experimented on a page. A distributed denial-of-service (DDoS) attack is an attack in which multiple compromised computer systems attack a target, such as a server, website or other network resource, and cause a denial of service for users of the targeted resource. The flood of incoming messages, connection requests or malformed packets to the target system forces it to slow down or even crash and shut down, thereby denying service to legitimate users or systems.
