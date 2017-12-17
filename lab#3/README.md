@@ -14,3 +14,6 @@ Using the following code we can use frequency analysis to find the solution to a
 in dependence of frequency of each letter. If is used a sufficient long section of encrypted text, error could be minimized and find out the 
 rotation which was used to encrypt.
 
+Result is:
+
+![alt text](https://github.com/SandaCotovici/SI/blob/master/lab%233/results.PNG "Deciphered Caesar cipher")
